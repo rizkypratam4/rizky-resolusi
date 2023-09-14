@@ -6,5 +6,7 @@ BRACKET Tournament Pendaftar
 - hasil tournament terdeteksi otomatis ketika pertandingan selesai
 - terdapat skor didalam bracket 
 - detail tanggal pertandingan
-- teknologi yang dipakai react js
-
+- framwork yang digunakan 
+  * react js
+    ^ g-loot tournament bracket
+    ^ react-tournament-bracket
