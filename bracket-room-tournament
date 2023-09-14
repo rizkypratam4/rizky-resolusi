@@ -2,5 +2,6 @@ BRACKET Tournament Pendaftar
 - terdapat nama team
   * nama team tidak boleh kosong
   * nama team tidak boleh menggunakan kata-kata kotor atau kasar
+- hasil tournament terdeteksi otomatis ketika pertandingan selesai
 - terdapat skor didalam bracket 
 - detail tanggal pertandingan
